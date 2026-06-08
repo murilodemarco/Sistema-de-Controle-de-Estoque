@@ -39,9 +39,11 @@ O sistema utiliza o MySQL para armazenamento das informações.
 ## ▶️ Como Executar
 
 1. Clone o repositório
+```bash
 git clone https://github.com/murilodemarco/Sistema-de-Controle-de-Estoque.git
+```
 
-2. Configure o banco de dados
+3. Configure o banco de dados
    
 - Crie o banco de dados MySQL.
 - Execute o script SQL.
@@ -58,12 +60,25 @@ String senha = "sua_senha";
 ## 📸 Funcionalidades Demonstradas
 
 - Cadastro de produtos
+  
 ![Cadastro de produtos](/img/Produto_cadastrado.png)
+
+
 - Consulta de estoque
-![Consulta de estoque](/img/Listagem_produto.png)
+
+  
+![Consulta de estoque](/img/Listagem_produtos.png)
+
+
 - Cálculo do valor total do estoque
+
+  
 ![valor estoque](/img/Valor_estoque.png)
+
+
 - Exclusão de registros
+
+  
 ![Exclusão produtos](/img/Produto_excluido.png)
 
 
