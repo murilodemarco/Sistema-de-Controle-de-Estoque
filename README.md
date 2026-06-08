@@ -47,10 +47,12 @@ git clone https://github.com/murilodemarco/Sistema-de-Controle-de-Estoque.git
 - Crie o banco de dados MySQL.
 - Execute o script SQL.
 - Atualize as credenciais da classe Conexao.java.
-
+  
+``` java
 String url = "jdbc:mysql://localhost:3306/seu_banco";
 String usuario = "seu_usuario";
 String senha = "sua_senha";
+```
 
 3. Execute o projeto pelo Apache NetBeans.
 
