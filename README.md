@@ -10,7 +10,6 @@ O sistema permite:
 - ✅ Listar produtos cadastrados
 - ✅ Calcular o valor total do estoque
 - ✅ Excluir produtos pelo ID
-- ✅ Conectar e manipular dados em banco MySQL
 
 ## 🛠️ Tecnologias Utilizadas
 
