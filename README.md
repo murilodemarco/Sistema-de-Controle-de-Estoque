@@ -57,7 +57,7 @@ String senha = "sua_senha";
 
 ## 📸 Funcionalidades Demonstradas
 
-- ![Cadastro de produtos](/img/Produto excluido.png)
+- ![Cadastro de produtos](/img/Produtoexcluido.png)
 - Consulta de estoque
 - Cálculo do valor total do estoque
 - Exclusão de registros
